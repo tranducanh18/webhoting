@@ -3,4 +3,18 @@
     margin-right: auto;
     width: 400px;
     text-align: center;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.info {
+    margin-top: 40px;
+    background-color: #f3f3f3;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.info h2 {
+    color: #007acc;
+    margin-top: 10px;
 }
